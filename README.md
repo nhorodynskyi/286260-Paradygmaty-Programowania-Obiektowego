@@ -1,2 +1,3 @@
-# 286260-Paradygmaty-Programowania-Obiektowego
+286260-Paradygmaty-Programowania-Obiektowego
+
 ISA, Nazar Horodynskyi, 286260
