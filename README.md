@@ -2,7 +2,7 @@
 
 Program konsolowy w C++ do zarządzania listami obecności studentów i pracowników.
 
-# Opis projektu
+## Opis projektu
 
 Program został napisany w języku C++ i wykorzystuje podstawowe elementy programowania obiektowego.
 
@@ -17,7 +17,7 @@ Program umożliwia:
 - eksport listy do pliku .txt,
 - eksport listy do pliku .csv.
 
-# Struktura klas
+### Struktura klas
 
 W projekcie znajdują się następujące klasy i interfejsy:
 
@@ -32,7 +32,7 @@ W projekcie znajdują się następujące klasy i interfejsy:
 -'Eksportowalny' — pozwala przygotować dane do eksportu.
 -'Eksporter' — klasa bazowa dla różnych sposobów eksportu danych.
 
-# Struktura repozytorium
+#### Struktura repozytorium
 
 -main — końcowa wersja projektu,
 -lab1 — pierwsza wersja programu z podstawową listą obecności,
