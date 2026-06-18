@@ -14,5 +14,5 @@ Program pozwala:
 
 W tej wersji dane są zapisane w klasie `Osoba`, a lista jest obsługiwana przez klasę `listaObecnosci`.
 
-#286260-Paradygmaty-Programowania-Obiektowego
+# 286260-Paradygmaty-Programowania-Obiektowego
 ISA, Nazar Horodynskyi, 286260
