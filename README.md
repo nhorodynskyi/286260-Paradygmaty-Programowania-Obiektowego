@@ -21,16 +21,16 @@ Program umożliwia:
 
 W projekcie znajdują się następujące klasy i interfejsy:
 
--`Osoba` — klasa bazowa dla wszystkich osób w programie.
--`Student` — przechowuje dane studenta, np. imię, nazwisko i numer indeksu.
--`Pracownik` — przechowuje dane pracownika, np. imię, nazwisko i ID pracownika.
--`ListaObecnosci` — przechowuje osoby dodane do listy oraz informację, czy są obecne.
--`InterfejsUzytkownika` — obsługuje menu programu i wybory użytkownika.
--`EksporterTXT` — zapisuje listę obecności do pliku tekstowego.
--`EksporterCSV` — zapisuje listę obecności do pliku CSV.
--`Serializable` — pozwala zamienić obiekt na tekst.
--`Eksportowalny` — pozwala przygotować dane do eksportu.
--`Eksporter` — klasa bazowa dla różnych sposobów eksportu danych.
+-'Osoba' — klasa bazowa dla wszystich osób w programie.
+-'Student' — przechowuje dane studenta, np. imię, nazwisko i numer indeksu.
+-'Pracownik' — przechowuje dane pracownika, np. imię, nazwisko i ID pracownika.
+-'ListaObecnosci' — przechowuje osoby dodane do listy oraz informację, czy są obecne.
+-'InterfejsUzytkownika' — obsługuje menu programu i wybory użytkownika.
+-'EksporterTXT' — zapisuje listę obecności do pliku tekstowego.
+-'EksporterCSV' — zapisuje listę obecności do pliku CSV.
+-Serializable' — pozwala zamienić obiekt na tekst.
+-'Eksportowalny' — pozwala przygotować dane do eksportu.
+-'Eksporter' — klasa bazowa dla różnych sposobów eksportu danych.
 
 # Struktura repozytorium
 
